@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "cc.slimnet.listify",
+      "sha256_cert_fingerprints": [
+        "B3:4C:C5:36:D5:BC:3B:21:04:EA:10:EF:78:76:35:60:07:0C:47:A6:4B:7D:F7:7D:9B:C3:D1:A8:65:EF:8C:C6"
+      ]
+    }
+  }
+]
