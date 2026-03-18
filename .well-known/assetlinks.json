@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "cc.slimnet.listify",
       "sha256_cert_fingerprints": [
-        "EB:C5:92:A3:33:4B:AC:79:84:83:11:23:84:44:14:0F:91:BD:E7:3A:AC:33:11:2C:67:3C:7A:38:C9:CA:38:30"
+        "EB:C5:92:A3:33:4B:AC:79:84:83:11:23:84:44:14:0F:91:BD:E7:3A:AC:33:11:2C:67:3C:7A:38:C9:CA:38:30",
+        "88:36:FB:CA:ED:0B:D7:F9:78:2C:0A:AD:05:64:D3:69:00:A6:97:DB:34:77:E4:BB:96:85:4A:49:01:DA:AE:5B"
       ]
     }
   }
